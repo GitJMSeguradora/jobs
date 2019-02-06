@@ -20,7 +20,7 @@ O profissional irá trabalhar com plataformas voltadas para os clientes dos segm
 - [ ] Conhecimento em styling and css
 - [ ] Conhecimento em TDD
 - [ ] Desejável: Jest, MobX, Agile Methodologies
-- [ ] Concluir o [Desafio](./front/challenge.md)
+- [ ] Concluir o [Desafio](./front/Challenge.md)
 
 ### Beneficios
 
