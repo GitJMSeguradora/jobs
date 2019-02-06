@@ -13,23 +13,27 @@ Buscamos profissionais com pensamento inovador e que tenham interesse em novas t
 O profissional irá trabalhar com plataformas voltadas para os clientes dos segmentos de atuação da empresa.
 
 ### Requirements
+
 - [ ] Conhecimento em javascript
 - [ ] Conhecimento em git
 - [ ] Conhecimento em react
 - [ ] Conhecimento em styling and css
 - [ ] Conhecimento em TDD
 - [ ] Desejável: Jest, MobX, Agile Methodologies
+- [ ] [Desafio]()
 
-### Challenge
+### Beneficios
 
-O desafio é criar um SPA em React, onde seja possível realizar a busca de um filme pelo seu título. Também deve ser possível visualizar mais detalhes dos filmes.
+- [ ] Plano de saúde
+- [ ] Plano odontológico
+- [ ] Vale alimentação R\$530
+- [ ] Vale refeição R\$686
+- [ ] Plano de previdência privada
+- [ ] Auxílio educação
+- [ ] Vale transporte
+- [ ] Auxílio creche
+- [ ] Seguro de vida
 
-A API a ser utilizada será a [OMDb](http://www.omdbapi.com/) ao qual o candidato deverá criar uma conta.
+### Como participar?
 
-- [ ] Layout bem feito
-- [ ] Código organizado
-- [ ] Diferencial: Utilizar alguma biblioteca de controle de estado
-- [ ] Diferencial: >60% de cobertura de testes
-- [ ] Diferencial: Styled Components
-- [ ] Diferencial: Criar outras áreas, como por exemplo, filmes prediletos, área de login, etc
-- [ ] Diferencial: Otimizar webpack.
+Envie um email para challynnesrl@juntoseguros.com com o seu GitHub, LinkedIn e CV, com o assunto Vaga Frontend.
