@@ -20,7 +20,7 @@ O profissional irá trabalhar com plataformas voltadas para os clientes dos segm
 - [ ] Conhecimento em styling and css
 - [ ] Conhecimento em TDD
 - [ ] Desejável: Jest, MobX, Agile Methodologies
-- [ ] [Desafio]()
+- [ ] Concluir o [Desafio](./front/challenge.md)
 
 ### Beneficios
 
@@ -36,4 +36,4 @@ O profissional irá trabalhar com plataformas voltadas para os clientes dos segm
 
 ### Como participar?
 
-Envie um email para challynnesrl@juntoseguros.com com o seu GitHub, LinkedIn e CV, com o assunto Vaga Frontend.
+Envie um email para **challynnesrl@juntoseguros.com** com o seu GitHub, LinkedIn e CV, com o assunto **Vaga Frontend**.
