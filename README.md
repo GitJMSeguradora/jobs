@@ -42,7 +42,7 @@ O profissional irá trabalhar com plataformas voltadas para os clientes dos segm
 - [ ] Experiência com desenvolvimento em ReactJs
 - [ ] Conhecimento sobre práticas de testes (TDD, BDD, Integration, E2E);
 - [ ] Se sentir confortável em utilizar gerenciadores de estado como Redux, Context API ou Mobx;
-- [ ] Desejável: Jest, MobX, Agile Methodologies
+- [ ] Sólido entendimento de metodologias Ágil;
 - [ ] Concluir o [Desafio](./front/Challenge.md)
 
 ## Informações Adicionais
