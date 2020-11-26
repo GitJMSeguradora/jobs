@@ -1,75 +1,20 @@
 # ![Junto Seguros](https://static.juntoseguros.com/images/logo.png)
 
-Olá! Somos a Junto Seguros, seguradora digital referência de Seguro Garantia no Brasil!
+Somos uma empresa especializada em soluções de Seguro Garantia. Buscamos constantemente utilizar a inovação e a tecnologia em nossos processos e melhorar a experiência dos nossos clientes. O nosso produto, o Seguro Garantia, é feito para empresas de diversos tamanhos e segmentos com soluções que garantem obrigações contratuais. Com mais de 25 anos de história, estamos sempre atentos às atualizações do mercado. Somos a primeira seguradora digital de Seguro Garantia do Brasil e o nosso objetivo é continuar crescendo e inovando, pois, o nosso propósito é garantir negócios que movem o país.
 
-Somos guiados pelos nossos valores:
+Com sede em Curitiba e atuação de times multidisciplinares espalhados por todo o Brasil, formamos uma grande equipe sempre em busca das melhores soluções e do crescimento constante do nosso negócio, apoiados nos nossos valores: somos simples, seguros e transformadores.
 
-Somos Seguros
+## POR QUE VIR JUNTO?
 
-Somos Simples
+Somos inovadores, movidos a desafios e acreditamos que o desenvolvimento constante dos nossos colaboradores também é essencial para o crescimento da nossa empresa. Somos feitos de pessoas e por isso, valorizamos os aprendizados, a diversidade e a troca de conhecimento entre todos.
 
-Somos Transformadores
+Se você quer fazer parte de uma empresa transformadora, imersa no ambiente digital e em constante transformação: vem Junto!
 
- 
-Temos mais de 28 anos de atuação no mercado de seguros, sendo 25 deles dedicados exclusivamente ao Seguro Garantia: um produto que tem como objetivo garantir negócios que movem o país.
+## Desafios
 
- 
-Quer fazer parte do nosso time e ajudar a escrever a história no seguro garantia? Vem JUNTO!
-
-# Vagas
-
-A Junto Seguros está passando por uma transformação digital e hoje trabalha com squads orientados a metodologia ágil.
-
-Buscamos profissionais com pensamento inovador e que tenham interesse em novas tecnologias.
-
-## Frontend
-
-O profissional irá trabalhar com plataformas voltadas para os clientes dos segmentos de atuação da empresa.
-
-### Responsabilidades
-
-* Transformar a visão do produto e o desenho em um produto em funcionamento;
-* Desenvolver sistemas de acordo com o desenho, dar feedbacks aos designers e sugerir trade-offs quando necessário;
-* Assegurar que o código siga as mais modernas práticas e tendências da indústria;
-* Trabalhar em estreita cooperação com os desenvolvedores de backend para entender e usar adequadamente os sistemas de APIs, criar testes de unidade e de integração, e desenvolver ferramentas de automação para tarefas diárias, assim como questionar ideias e opiniões para evitar armadilhas e soluções ineficientes.
-* Seu trabalho influencia diretamente a forma como os usuários interagem com o sistema.
-
-### Requisitos
-
-
-- [ ] Profundo conhecimento em javascript, HTML5 e CSS
-- [ ] Experiência com ferramentas de versionamento (github, gitlab)
-- [ ] Experiência com desenvolvimento em ReactJs
-- [ ] Conhecimento sobre práticas de testes (TDD, BDD, Integration, E2E);
-- [ ] Se sentir confortável em utilizar gerenciadores de estado como Redux, Context API ou Mobx;
-- [ ] Sólido entendimento de metodologias Ágil;
-- [ ] Concluir o [Desafio](./front/Challenge.md)
-
-## Informações Adicionais
-
-### Nossos benefícios:
-
-* Vale-alimentação - com 13º vale alimentação em dezembro;
-* Vale-refeição;
-* Vale-transporte;
-* Plano de saúde SulAmérica;
-* Plano odontológico;
-* Plano de previdência privada;
-* Auxílio-creche;
-* Seguro de vida;
-* Participação nos resultados.
- 
-
-### O que mais a gente oferece:
-
-* Oportunidade de trabalhar em um ambiente repleto de desafios e que valoriza a diversidade;
-* Horário semi-flexível (40hs/semanais);
-* Acesso a Universidade Corporativa com diversos cursos;
-* Incentivo ao desenvolvimento;
-* Desconto em diversos restaurantes, universidades, escolas de idiomas e outros estabelecimentos;
-* Programa de bem-estar (com aulas diárias de exercícios e relaxamento);
-* “Juntos com você”: orientação jurídica, financeira e/ou psicológica.
+- [Novos Talentos](./novos-talentos/Challenge.md)
+- [Frontend](./front/Challenge.md)
 
 ### Como participar?
 
-Envie um email para **challynnesrl@juntoseguros.com** com o seu GitHub, LinkedIn e CV, com o assunto **Vaga Frontend**.
+Da uma olhadinha no nosso site de [carreiras](https://juntoseguros.gupy.io/) para mais informações

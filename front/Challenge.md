@@ -1,4 +1,10 @@
-### Frontend
+# Frontend
+
+## O que buscamos?
+
+https://juntoseguros.gupy.io/jobs/551192?jobBoardSource=gupy_public_page
+
+## Desafio
 
 O desafio é criar um SPA em React, onde seja possível realizar a busca de um filme pelo seu título. Também deve ser possível visualizar mais detalhes dos filmes.
 
