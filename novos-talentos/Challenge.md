@@ -17,8 +17,17 @@ Números positivos indicam o shift da direita para a esquerda.
 
 Números negativos indicam o shift da esquerda para a direita.
 
+Exemplos de funcionamento da função:
+|vetor de entrada|chamada da fução|resultado esperado|
+|-|-|-|
+|[0,1,2,3,4,5,6,7,8,9]|shift(vetor_de_entrada, 1)|[9,0,1,2,3,4,5,6,7,8]|
+|[0,1,2,3,4,5,6,7,8,9]|shift(vetor_de_entrada, 2)|[8,9,0,1,2,3,4,5,6,7]|
+|[0,1,2,3,4,5,6,7,8,9]|shift(vetor_de_entrada, -1)|[1,2,3,4,5,6,7,8,9,0]|
+|[0,1,2,3,4,5,6,7,8,9]|shift(vetor_de_entrada, -2)|[2,3,4,5,6,7,8,9,0,1]|
+
+
 ```bash
-Não serão aceitas respostas do tipo: "return vetor-tamanho: + vetor:-tamanho"
+Não serão aceitas respostas do tipo: "return vetor-tamanho: + vetor:-tamanho".
 ```
 
 2 . Dado o gráfico de dispersão abaixo, descrevendo duas características de três diferentes espécies de plantas, na qual cada cor indica uma espécie diferente. Como você faria para saber qual é a espécie de uma planta com sepal width igual 3.2 e sepal length igual 6.3? Explique seu raciocínio, quanto mais detalhada for a explicação melhor será o nosso entendimento.
