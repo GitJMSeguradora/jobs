@@ -12,7 +12,7 @@ Se você quer fazer parte de uma empresa transformadora, imersa no ambiente digi
 
 ## Desafios
 
-- [Novos Talentos](./novos-talentos/Challenge.md)
+- [Novos Talentos](./novos-talentos-2023/Challenge.md)
 - [Frontend](./front/Challenge.md)
 
 ### Como participar?
